@@ -1,4 +1,4 @@
--- Runs on the game server as a normal Script. Make something everyone can see!
+ -- Runs on the game server as a normal Script. Make something everyone can see!
 for i = 1, 20 do
 	local part = Instance.new("Part")
 	part.Anchored = true

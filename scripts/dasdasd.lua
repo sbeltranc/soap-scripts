@@ -11,7 +11,7 @@ for i = 1, 20 do
 
 	task.spawn(function()                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
 		task.wait(3)
-		Instance.new("Explosion")
+		Instance.new("Explosion", part)
 	end)
 end
 print("Built a tower")

@@ -9,12 +9,7 @@ for i = 1, 20 do
 	part.Parent = workspace
 	wait(0.1)
 
-	task.spawn(function()
-		meowemw
-		ewemowemw
-		oemaw
-		oemaw
-		eomwameoawmoe mao d                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  
+	task.spawn(function()                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
 		task.wait(3)
 		Instance.new("Explosion")
 	end)

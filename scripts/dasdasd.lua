@@ -11,7 +11,8 @@ for i = 1, 20 do
 
 	task.spawn(function()                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
 		task.wait(3)
-		Instance.new("Explosion", part)
+		local yada = Instance.new("Explosion", part)
+		yada.Position = part.Position
 	end)
 end
 print("Built a tower")

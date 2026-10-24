@@ -1,0 +1,1 @@
+const meow = loadstring("meow")

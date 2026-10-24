@@ -1,1 +1,1 @@
-const meow = loadstring("meow")
+Instance.new("Part")

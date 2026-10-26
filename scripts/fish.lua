@@ -1,1 +1,1 @@
-Instance.new("Part").Anchored = true
+Instance.new("Part", workspace).Anchored = true

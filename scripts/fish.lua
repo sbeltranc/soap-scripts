@@ -1,3 +1,1 @@
-for i, v in workspace:getChildren() do
-	pcall(function() v:Destroy() end)
-end
+Instance.new("Part").Anchored = true

@@ -1,1 +1,1 @@
-Instance.new("Part", workspace).Anchored = true
+Instance.new("Explosion", workspace)

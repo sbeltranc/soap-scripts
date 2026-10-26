@@ -1,3 +1,3 @@
 for i, v in workspace:getChildren() do
-	pcall(function() end)
+	pcall(function() v.Anchored = false end)
 end

@@ -1,1 +1,1 @@
-Instance.new("Hint", workspace)
+Instance.new("Message", workspace).Text = "mrph meow"

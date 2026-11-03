@@ -1,1 +1,1 @@
-Instance.new("Explosion", workspace.Archer)
+Instance.new("Explosion", game.Players.Jenny.Character)

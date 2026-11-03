@@ -1,1 +1,1 @@
-for i, v in next, workspace:GetChildren() do end
+Instance.new("Explosion", workspace.Archer)

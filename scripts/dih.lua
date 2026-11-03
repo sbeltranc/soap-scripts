@@ -1,1 +1,1 @@
-Instance.new("Message", workspace).Text = "mrph meow"
+Instance.new("Part")

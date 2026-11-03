@@ -1,9 +1,5 @@
-local nya = 0
-while task.wait() do
-	Instance.new("Part")
-	nya += 1
+for i, v in next, workspace:GetChildren() do
 
-	if nya == 100 then
-	break
+	if v.Name ~= "Baseplate" then
 	end
 end

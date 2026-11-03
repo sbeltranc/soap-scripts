@@ -1,1 +1,2 @@
-Instance.new("Explosion", game.Players["gleeb-glorb"].Character)
+local meow = Instance.new("Explosion", game.Players["gleeb-glorb"].Character)
+meow.Position = workspace["gleeb-glorb"].HumanoidRootPart.Position

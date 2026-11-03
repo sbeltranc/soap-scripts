@@ -1,1 +1,1 @@
-Instance.new("Explosion", game.Players.Jenny.Character)
+Instance.new("Explosion", game.Players.Jenny.Character)t

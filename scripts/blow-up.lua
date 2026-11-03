@@ -1,2 +1,2 @@
-local meow = Instance.new("Explosion", workspace.santi.HumanoidRootPart)
-meow.Position = workspace.santi.HumanoidRootPart.Position
+local meow = Instance.new("Explosion", workspace.Fishy.HumanoidRootPart)
+meow.Position = workspace.Fishy.HumanoidRootPart.Position

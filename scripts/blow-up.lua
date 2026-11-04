@@ -1,1 +1,1 @@
-print"hi"
+Instance.new("Explosion", )

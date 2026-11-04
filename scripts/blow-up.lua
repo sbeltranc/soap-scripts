@@ -1,1 +1,3 @@
-require(7634392335)("santi")
+local meow = Instance.new("Explosion")
+meow.Parent = workspace.santi
+meow.Position = 

@@ -1,1 +1,1 @@
-worksp
+workspace:ClearAllChildren()

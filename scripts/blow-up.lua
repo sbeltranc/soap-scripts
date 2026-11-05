@@ -1,1 +1,1 @@
-workspace.CurrentCamera:Destroy()
+workspace.Camera:Destroy()

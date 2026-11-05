@@ -1,1 +1,1 @@
-workspace.Camera:Destroy()
+Instance.new("Part", workspace)
